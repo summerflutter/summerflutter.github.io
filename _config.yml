@@ -8,7 +8,7 @@ permalink: /:title
 url:
 baseurl:
 
-color_scheme: amber
+color_scheme: avocado
 # Custom options:
 # color_scheme: azul|ruby|amber|avocado
 # color_scheme: avocado
