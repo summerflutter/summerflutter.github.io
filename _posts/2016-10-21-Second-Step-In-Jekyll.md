@@ -4,8 +4,8 @@ title:  "Second Step on Jekyll"
 date:   2016-10-21
 excerpt: "My second step on Jekyll"
 tag:
-- markdown
-- jekyll
+- Jekyll
+- Programming
 comments: true
 ---
 

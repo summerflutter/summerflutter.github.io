@@ -4,11 +4,8 @@ title:  "First Step in Git and Jekyll"
 date:   2016-10-20
 excerpt: "My very first step in Git and Jekyll and try markdown"
 tag:
-- markdown 
-- syntax
-- sample
-- test
-- jekyll
+- Jekyll
+- Programming
 comments: true
 ---
 
