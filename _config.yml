@@ -1,6 +1,6 @@
-title: Brume
-author: Aigars Dzerviniks
-description: It's simple. It's easy to use. It's a Jekyll theme.
+title: Qin's blog
+author: Qin
+description: Place to write for Qin.
 
 highlighter: null
 permalink: /:title
@@ -8,6 +8,7 @@ permalink: /:title
 url:
 baseurl:
 
+color_scheme: amber
 # Custom options:
 # color_scheme: azul|ruby|amber|avocado
 # color_scheme: avocado
